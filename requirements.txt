@@ -1,0 +1,14 @@
+skforecast==0.22.0
+xgboost
+scikit-learn
+pandas
+numpy
+matplotlib
+plotly
+statsmodels
+openmeteo-requests
+requests-cache
+retry-requests
+optuna
+shap
+hyperopt
